@@ -14,4 +14,3 @@ Click on the items you want to order, choose quantity, and click "Add to Cart" t
 Review and Place Order:
 Once you've added all desired items to your cart, review your order summary.
 Proceed to checkout and place your order.
-Technologies Used
